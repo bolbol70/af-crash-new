@@ -1,0 +1,20 @@
+{
+  "porte": "https://i.ebayimg.com/images/g/zWYAAeSwZklpEBIS/s-l1200.webp",
+  "porte-arriere": "https://i.ebayimg.com/images/g/qMcAAeSwr4lpSrSh/s-l1200.webp",
+  "hayon": "https://amexautoparts.com/media/products/2026/01/E0003499.jpg",
+  "capot": "https://www.amistadauto.com.tw/pic/pts/8622/pts19232-1-20240124154629-58.jpg",
+  "aile": "https://www.somora.ie/images/parts/BodyParts_Panels.jpg",
+  "feu-arriere": "https://www.autohausaz.com/images/TY-11-6990-00.jpg",
+  "feu-avant": "https://www.somora.ie/images/parts/Lighting.jpg",
+  "roviseur": "https://www.autohausaz.com/images/TY-7750041.jpg",
+  "pieces-porte": "https://images.carid.com/autotecnica/items/fd0817212-2.jpg",
+  "sous-parachoc": "https://ic.carid.com/replacement/items/id0030aa0505c00_1.jpg",
+  "interieur-parachoc": "https://ic.carid.com/replacement/items/bndl-916241_1.jpg",
+  "wallyscar": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wallyscar_Logo.svg",
+  "dfsk": "https://www.dfskmotors.co.id/static/images/dfsk.jpg",
+  "hero-v2.png": {
+    "mode": "image_gen built-in",
+    "type": "Visuel automobile généré pour AF Crash New",
+    "prompt_file": "VISUEL-ACCUEIL.md"
+  }
+}
